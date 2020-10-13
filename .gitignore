@@ -6,13 +6,3 @@
 
 # Operating System
 .DS_Store
-
-# External Dependencies
-node_modules/
-
-# Terraform - Safely and Predictably Create, Change, and Improve Infrastructure
-.terraform/
-.terraform.tfstate.lock.info
-terraform.auto.tfvars
-terraform.tfstate
-terraform.tfstate.backup
