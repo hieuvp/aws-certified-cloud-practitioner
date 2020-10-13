@@ -11,4 +11,5 @@
 
 ## References
 
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner)
 - [AWS Certified Cloud Practitioner (CLF-C01)](https://app.pluralsight.com/paths/certificate/aws-certified-cloud-practitioner)
