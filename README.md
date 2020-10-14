@@ -6,8 +6,28 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Fundamental Cloud Concepts for AWS](#fundamental-cloud-concepts-for-aws)
+  - [Course Overview](#course-overview)
+  - [Understanding Cloud Computing](#understanding-cloud-computing)
+  - [AWS Global Infrastructure](#aws-global-infrastructure)
+  - [Understanding Cloud Economics](#understanding-cloud-economics)
+  - [Supporting AWS Infrastructure](#supporting-aws-infrastructure)
 - [Understanding AWS Core Services](#understanding-aws-core-services)
+  - [Understanding AWS Core Services - Course Overview](#understanding-aws-core-services---course-overview)
+  - [Interacting with AWS](#interacting-with-aws)
+  - [Compute Services](#compute-services)
+  - [Content and Network Delivery Services](#content-and-network-delivery-services)
+  - [File Storage Services](#file-storage-services)
+  - [Database Services and Utilities](#database-services-and-utilities)
+  - [App Integration Services](#app-integration-services)
+  - [Management and Governance Services](#management-and-governance-services)
 - [Introduction to Security and Architecture on AWS](#introduction-to-security-and-architecture-on-aws)
+  - [Introduction to Security and Architecture on AWS - Course Overview](#introduction-to-security-and-architecture-on-aws---course-overview)
+  - [AWS Architecture Core Concepts](#aws-architecture-core-concepts)
+  - [AWS Identities and User Management](#aws-identities-and-user-management)
+  - [Data Architecture on AWS](#data-architecture-on-aws)
+  - [Disaster Recovery on AWS](#disaster-recovery-on-aws)
+  - [Architecting Applications on Amazon EC2](#architecting-applications-on-amazon-ec2)
+  - [The Certification Exam](#the-certification-exam)
 - [Exam Questions and Answers](#exam-questions-and-answers)
 - [References](#references)
 
@@ -15,273 +35,187 @@
 
 ## Fundamental Cloud Concepts for AWS
 
-Understanding Cloud Computing
+### Course Overview
 
-Overview
+1. [Course Overview](README.md)
 
-Setting up an AWS Account
+### Understanding Cloud Computing
 
-Traditional Data Centers
+1. [Overview](README.md)
+1. [Setting up an AWS Account](README.md)
+1. [Traditional Data Centers](README.md)
+1. [Benefits of Cloud Computing](README.md)
+1. [Types of Cloud Computing](README.md)
+1. [Cloud Computing Scenarios](README.md)
+1. [Summary](README.md)
 
-Benefits of Cloud Computing
+### AWS Global Infrastructure
 
-Types of Cloud Computing
+1. [Overview](README.md)
+1. [AWS Regions and Availability Zones](README.md)
+1. [AWS Edge Locations](README.md)
+1. [Visualizing AWS Global Infrastructure](README.md)
+1. [Scenarios](README.md)
+1. [Summary](README.md)
 
-Cloud Computing Scenarios
+### Understanding Cloud Economics
 
-Summary
+1. [Economics of the Cloud](README.md)
+1. [Organizing and Optimizing AWS Costs](README.md)
+1. [Using the AWS TCO Calculator](README.md)
+1. [Using the AWS Simple Monthly Calculator](README.md)
+1. [Reviewing Costs with the Cost Explorer](README.md)
+1. [Applying Cloud Economics](README.md)
+1. [Summary](README.md)
 
-AWS Global Infrastructure
+### Supporting AWS Infrastructure
 
-Overview
-
-AWS Regions and Availability Zones
-
-AWS Edge Locations
-
-Visualizing AWS Global Infrastructure
-
-Scenarios
-
-Summary
-
-Understanding Cloud Economics
-
-Economics of the Cloud
-
-Organizing and Optimizing AWS Costs
-
-Using the AWS TCO Calculator
-
-Using the AWS Simple Monthly Calculator
-
-Reviewing Costs with the Cost Explorer
-
-Applying Cloud Economics
-
-Summary
-
-Supporting AWS Infrastructure
-
-Support Resources
-
-AWS Support Plan Tiers
-
-AWS Support Tools
-
-Infrastructure Support Scenarios
-
-Summary
-
-Preparing for the Exam
+1. [Support Resources](README.md)
+1. [AWS Support Plan Tiers](README.md)
+1. [AWS Support Tools](README.md)
+1. [Infrastructure Support Scenarios](README.md)
+1. [Summary](README.md)
+1. [Preparing for the Exam](README.md)
 
 ## Understanding AWS Core Services
 
-Interacting with AWS
+### Understanding AWS Core Services - Course Overview
 
-Overview
+1. [Course Overview](README.md)
 
-Methods of Interacting with AWS
+### Interacting with AWS
 
-Using the AWS Console
+1. [Overview](README.md)
+1. [Methods of Interacting with AWS](README.md)
+1. [Using the AWS Console](README.md)
+1. [Using the AWS CLI](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Using the AWS CLI
+### Compute Services
 
-Scenario Based Review
+1. [Overview](README.md)
+1. [Amazon EC2 Overview](README.md)
+1. [Amazon EC2 Purchase Types](README.md)
+1. [Launching EC2 Instances](README.md)
+1. [AWS Elastic Beanstalk Overview](README.md)
+1. [Launching an App on Elastic Beanstalk](README.md)
+1. [AWS Lambda Overview](README.md)
+1. [Scenario Review](README.md)
+1. [Summary](README.md)
 
-Summary
+### Content and Network Delivery Services
 
-Compute Services
+1. [Overview](README.md)
+1. [Amazon VPC and Direct Connect](README.md)
+1. [Amazon Route 53](README.md)
+1. [Elastic Load Balancing](README.md)
+1. [Amazon CloudFront and API Gateway](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Overview
+### File Storage Services
 
-Amazon EC2 Overview
+1. [Overview](README.md)
+1. [Amazon S3 Overview](README.md)
+1. [Hosting a Website on Amazon S3](README.md)
+1. [Glacier and Glacier Deep Archive](README.md)
+1. [Elastic Block Store](README.md)
+1. [Elastic File System](README.md)
+1. [Data Transfer with AWS Snowball](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Amazon EC2 Purchase Types
+### Database Services and Utilities
 
-Launching EC2 Instances
+1. [Overview](README.md)
+1. [Amazon Relational Database Service](README.md)
+1. [Amazon DynamoDB Overview](README.md)
+1. [Amazon Elasticache and Redshift](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-AWS Elastic Beanstalk Overview
+### App Integration Services
 
-Launching an App on Elastic Beanstalk
+1. [Overview](README.md)
+1. [AWS Messaging Services](README.md)
+1. [AWS Step Functions](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-AWS Lambda Overview
+### Management and Governance Services
 
-Scenario Review
-
-Summary
-
-Content and Network Delivery Services
-
-Overview
-
-Amazon VPC and Direct Connect
-
-Amazon Route 53
-
-Elastic Load Balancing
-
-Amazon CloudFront and API Gateway
-
-Scenario Based Review
-
-Summary
-
-File Storage Services
-
-Overview
-
-Amazon S3 Overview
-
-Hosting a Website on Amazon S3
-
-Glacier and Glacier Deep Archive
-
-Elastic Block Store
-
-Elastic File System
-
-Data Transfer with AWS Snowball
-
-Scenario Based Review
-
-Summary
-
-Database Services and Utilities
-
-Overview
-
-Amazon Relational Database Service
-
-Amazon DynamoDB Overview
-
-Amazon Elasticache and Redshift
-
-Scenario Based Review
-
-Summary
-
-App Integration Services
-
-Overview
-
-AWS Messaging Services
-
-AWS Step Functions
-
-Scenario Based Review
-
-Summary
-
-Management and Governance Services
-
-Overview
-
-AWS CloudTrail
-
-Amazon CloudWatch and AWS Config
-
-AWS Systems Manager
-
-AWS CloudFormation
-
-AWS Organizations and Control Tower
-
-Scenario Based Review
-
-Summary
-
-Preparing for the Exam
+1. [Overview](README.md)
+1. [AWS CloudTrail](README.md)
+1. [Amazon CloudWatch and AWS Config](README.md)
+1. [AWS Systems Manager](README.md)
+1. [AWS CloudFormation](README.md)
+1. [AWS Organizations and Control Tower](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
+1. [Preparing for the Exam](README.md)
 
 ## Introduction to Security and Architecture on AWS
 
-AWS Architecture Core Concepts
+### Introduction to Security and Architecture on AWS - Course Overview
 
-Overview
+1. [Course Overview](README.md)
 
-Security and Architecture Overview
+### AWS Architecture Core Concepts
 
-Shared Responsibility Model
+1. [Overview](README.md)
+1. [Security and Architecture Overview](README.md)
+1. [Shared Responsibility Model](README.md)
+1. [AWS Well-architected Framework](README.md)
+1. [High-availability and Fault Tolerance](README.md)
+1. [Compliance](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-AWS Well-architected Framework
+### AWS Identities and User Management
 
-High-availability and Fault Tolerance
+1. [Overview](README.md)
+1. [Introduction to AWS IAM](README.md)
+1. [Creating and Managing IAM Users](README.md)
+1. [Enabling Multi-factor Authentication](README.md)
+1. [Amazon Cognito](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Compliance
+### Data Architecture on AWS
 
-Scenario Based Review
+1. [Overview](README.md)
+1. [Integrating On-premise Data](README.md)
+1. [Processing Data](README.md)
+1. [Analyzing Data](README.md)
+1. [Integrating AI and Machine Learning](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Summary
+### Disaster Recovery on AWS
 
-AWS Identities and User Management
+1. [Overview](README.md)
+1. [Disaster Recovery Architectures](README.md)
+1. [Selecting a Disaster Recovery Architecture](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Overview
+### Architecting Applications on Amazon EC2
 
-Introduction to AWS IAM
+1. [Overview](README.md)
+1. [Scaling EC2 Infrastructure](README.md)
+1. [Controlling Access to EC2 Instances](README.md)
+1. [Protecting Infrastructure from Attacks](README.md)
+1. [Deploying Pre-defined Solutions](README.md)
+1. [Developer Tools](README.md)
+1. [Scenario Based Review](README.md)
+1. [Summary](README.md)
 
-Creating and Managing IAM Users
+### The Certification Exam
 
-Enabling Multi-factor Authentication
-
-Amazon Cognito
-
-Scenario Based Review
-
-Summary
-
-Data Architecture on AWS
-
-Overview
-
-Integrating On-premise Data
-
-Processing Data
-
-Analyzing Data
-
-Integrating AI and Machine Learning
-
-Scenario Based Review
-
-Summary
-
-Disaster Recovery on AWS
-
-Overview
-
-Disaster Recovery Architectures
-
-Selecting a Disaster Recovery Architecture
-
-Scenario Based Review
-
-Summary
-
-Architecting Applications on Amazon EC2
-
-Overview
-
-Scaling EC2 Infrastructure
-
-Controlling Access to EC2 Instances
-
-Protecting Infrastructure from Attacks
-
-Deploying Pre-defined Solutions
-
-Developer Tools
-
-Scenario Based Review
-
-Summary
-
-The Certification Exam
-
-The Exam
-
-Registering for the Exam
-
-Studying for and Taking the Exam
+1. [The Exam](README.md)
+1. [Registering for the Exam](README.md)
+1. [Studying for and Taking the Exam](README.md)
 
 ## Exam Questions and Answers
 
