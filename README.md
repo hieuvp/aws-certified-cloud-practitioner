@@ -6,13 +6,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Fundamental Cloud Concepts for AWS](#fundamental-cloud-concepts-for-aws)
-  - [Cloud Concepts - Overview](#cloud-concepts---overview)
+  - [Cloud Concepts Overview](#cloud-concepts-overview)
   - [Understanding Cloud Computing](#understanding-cloud-computing)
   - [AWS Global Infrastructure](#aws-global-infrastructure)
   - [Understanding Cloud Economics](#understanding-cloud-economics)
   - [Supporting AWS Infrastructure](#supporting-aws-infrastructure)
 - [Understanding AWS Core Services](#understanding-aws-core-services)
-  - [Core Services - Overview](#core-services---overview)
+  - [Core Services Overview](#core-services-overview)
   - [Interacting with AWS](#interacting-with-aws)
   - [Compute Services](#compute-services)
   - [Content and Network Delivery Services](#content-and-network-delivery-services)
@@ -21,7 +21,7 @@
   - [App Integration Services](#app-integration-services)
   - [Management and Governance Services](#management-and-governance-services)
 - [Introduction to Security and Architecture on AWS](#introduction-to-security-and-architecture-on-aws)
-  - [Security and Architecture - Overview](#security-and-architecture---overview)
+  - [Security and Architecture Overview](#security-and-architecture-overview)
   - [AWS Architecture Core Concepts](#aws-architecture-core-concepts)
   - [AWS Identities and User Management](#aws-identities-and-user-management)
   - [Data Architecture on AWS](#data-architecture-on-aws)
@@ -35,7 +35,7 @@
 
 ## Fundamental Cloud Concepts for AWS
 
-### Cloud Concepts - Overview
+### Cloud Concepts Overview
 
 1. [ ] [Course Overview](README.md)
 
@@ -79,7 +79,7 @@
 
 ## Understanding AWS Core Services
 
-### Core Services - Overview
+### Core Services Overview
 
 1. [ ] [Course Overview](README.md)
 
@@ -157,7 +157,7 @@
 
 ## Introduction to Security and Architecture on AWS
 
-### Security and Architecture - Overview
+### Security and Architecture Overview
 
 1. [ ] [Course Overview](README.md)
 
