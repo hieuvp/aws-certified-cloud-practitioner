@@ -6,7 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Fundamental Cloud Concepts for AWS](#fundamental-cloud-concepts-for-aws)
-  - [Cloud Concepts Overview](#cloud-concepts-overview)
+  - [Cloud Overview](#cloud-overview)
   - [Understanding Cloud Computing](#understanding-cloud-computing)
   - [AWS Global Infrastructure](#aws-global-infrastructure)
   - [Understanding Cloud Economics](#understanding-cloud-economics)
@@ -35,7 +35,7 @@
 
 ## Fundamental Cloud Concepts for AWS
 
-### Cloud Concepts Overview
+### Cloud Overview
 
 1. [ ] [Course Overview](README.md)
 
