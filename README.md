@@ -37,7 +37,7 @@
 
 ### Cloud Overview
 
-1. [ ] [Course Overview](README.md)
+1. [Course Overview](README.md)
 
 ### Understanding Cloud Computing
 
