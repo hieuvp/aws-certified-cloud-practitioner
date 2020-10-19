@@ -1,4 +1,4 @@
-# Fundamental Cloud Concepts for AWS
+# AWS Global Infrastructure
 
 ## Table of Contents
 

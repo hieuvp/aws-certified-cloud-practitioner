@@ -1,4 +1,4 @@
-# Fundamental Cloud Concepts for AWS
+# Understanding Cloud Economics
 
 ## Table of Contents
 

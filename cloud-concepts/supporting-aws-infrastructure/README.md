@@ -1,4 +1,4 @@
-# Fundamental Cloud Concepts for AWS
+# Supporting AWS Infrastructure
 
 ## Table of Contents
 
