@@ -36,7 +36,7 @@
 
 ### Understanding Cloud Computing
 
-1. [ ] [Overview](cloud-concepts/understanding-cloud-computing/README.md)
+1. [Overview](cloud-concepts/understanding-cloud-computing/README.md)
 1. [ ] [Setting up an AWS Account](cloud-concepts/understanding-cloud-computing/README.md)
 1. [ ] [Traditional Data Centers](cloud-concepts/understanding-cloud-computing/README.md)
 1. [ ] [Benefits of Cloud Computing](cloud-concepts/understanding-cloud-computing/README.md)
