@@ -36,41 +36,41 @@
 
 ### Understanding Cloud Computing
 
-1. [ ] [Overview](README.md)
-1. [ ] [Setting up an AWS Account](README.md)
-1. [ ] [Traditional Data Centers](README.md)
-1. [ ] [Benefits of Cloud Computing](README.md)
-1. [ ] [Types of Cloud Computing](README.md)
-1. [ ] [Cloud Computing Scenarios](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Setting up an AWS Account](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Traditional Data Centers](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Benefits of Cloud Computing](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Types of Cloud Computing](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Cloud Computing Scenarios](cloud-concepts/understanding-cloud-computing/README.md)
+1. [ ] [Summary](cloud-concepts/understanding-cloud-computing/README.md)
 
 ### AWS Global Infrastructure
 
-1. [ ] [Overview](README.md)
-1. [ ] [AWS Regions and Availability Zones](README.md)
-1. [ ] [AWS Edge Locations](README.md)
-1. [ ] [Visualizing AWS Global Infrastructure](README.md)
-1. [ ] [Scenarios](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](cloud-concepts/aws-global-infrastructure/README.md)
+1. [ ] [AWS Regions and Availability Zones](cloud-concepts/aws-global-infrastructure/README.md)
+1. [ ] [AWS Edge Locations](cloud-concepts/aws-global-infrastructure/README.md)
+1. [ ] [Visualizing AWS Global Infrastructure](cloud-concepts/aws-global-infrastructure/README.md)
+1. [ ] [Scenarios](cloud-concepts/aws-global-infrastructure/README.md)
+1. [ ] [Summary](cloud-concepts/aws-global-infrastructure/README.md)
 
 ### Understanding Cloud Economics
 
-1. [ ] [Economics of the Cloud](README.md)
-1. [ ] [Organizing and Optimizing AWS Costs](README.md)
-1. [ ] [Using the AWS TCO Calculator](README.md)
-1. [ ] [Using the AWS Simple Monthly Calculator](README.md)
-1. [ ] [Reviewing Costs with the Cost Explorer](README.md)
-1. [ ] [Applying Cloud Economics](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Economics of the Cloud](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Organizing and Optimizing AWS Costs](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Using the AWS TCO Calculator](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Using the AWS Simple Monthly Calculator](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Reviewing Costs with the Cost Explorer](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Applying Cloud Economics](cloud-concepts/understanding-cloud-economics/README.md)
+1. [ ] [Summary](cloud-concepts/understanding-cloud-economics/README.md)
 
 ### Supporting AWS Infrastructure
 
-1. [ ] [Support Resources](README.md)
-1. [ ] [AWS Support Plan Tiers](README.md)
-1. [ ] [AWS Support Tools](README.md)
-1. [ ] [Infrastructure Support Scenarios](README.md)
-1. [ ] [Summary](README.md)
-1. [ ] [Preparing for the Exam](README.md)
+1. [ ] [Support Resources](cloud-concepts/supporting-aws-infrastructure/README.md)
+1. [ ] [AWS Support Plan Tiers](cloud-concepts/supporting-aws-infrastructure/README.md)
+1. [ ] [AWS Support Tools](cloud-concepts/supporting-aws-infrastructure/README.md)
+1. [ ] [Infrastructure Support Scenarios](cloud-concepts/supporting-aws-infrastructure/README.md)
+1. [ ] [Summary](cloud-concepts/supporting-aws-infrastructure/README.md)
+1. [ ] [Preparing for the Exam](cloud-concepts/supporting-aws-infrastructure/README.md)
 
 ## Understanding AWS Core Services
 
