@@ -23,4 +23,8 @@
 and release resources when you no longer need them.
 In the cloud, you want to do this automatically.
 
+**Reliability**
+A solution's ability to provide functionality for its users when it is needed.
+Amazon's global infrastructure is built to maximize reliability for your cloud workloads.
+
 ## References
