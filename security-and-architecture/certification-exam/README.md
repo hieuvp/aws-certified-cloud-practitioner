@@ -1,4 +1,4 @@
-# Introduction to Security and Architecture on AWS
+# The Certification Exam
 
 ## Table of Contents
 

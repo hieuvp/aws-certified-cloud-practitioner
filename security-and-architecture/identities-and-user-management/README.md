@@ -1,4 +1,4 @@
-# Introduction to Security and Architecture on AWS
+# AWS Identities and User Management
 
 ## Table of Contents
 

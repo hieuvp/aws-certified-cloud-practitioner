@@ -1,4 +1,4 @@
-# Introduction to Security and Architecture on AWS
+# AWS Architecture Core Concepts
 
 ## Table of Contents
 

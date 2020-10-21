@@ -1,4 +1,4 @@
-# Introduction to Security and Architecture on AWS
+# Data Architecture on AWS
 
 ## Table of Contents
 
