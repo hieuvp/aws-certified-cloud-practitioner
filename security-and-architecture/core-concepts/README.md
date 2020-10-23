@@ -19,9 +19,9 @@
 
 ## Least Privilege Access
 
-When granting permission for a user to access AWS
-resources, you should grant them the minimum
-permissions needed to complete their tasks and no more.
+> When granting permission for a user to access AWS resources,
+> you should grant them the minimum permissions needed
+> to complete their tasks and no more.
 
 ## Shared Responsibility Model
 
