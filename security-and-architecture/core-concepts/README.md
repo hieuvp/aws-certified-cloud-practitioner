@@ -19,7 +19,14 @@ permissions needed to complete their tasks and no more.
 
 ## Shared Responsibility Model
 
-Security and Compliance is a shared responsibility
-between AWS and the customer.
+> **Security** and **Compliance** is a shared responsibility between AWS and the customer.
+
+| **AWS Responsibility**                      | **Customer Responsibility**                                |
+| ------------------------------------------- | ---------------------------------------------------------- |
+| Access & training for Amazon employees      | Individual access to cloud resources and training          |
+| Global data centers and underlying network  | Data security and encryption (both in transit and at rest) |
+| Hardware for global infrastructure          | Operating system, network, and firewall configuration      |
+| Configuration management for infrastructure | All code deployed onto cloud infrastructure                |
+| Patching cloud infrastructure and services  | Patching guest operating system and custom applications    |
 
 ## References
