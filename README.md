@@ -157,59 +157,59 @@
 
 ### AWS Architecture Core Concepts
 
-1. [ ] [Overview](README.md)
-1. [ ] [Security and Architecture Overview](README.md)
-1. [ ] [Shared Responsibility Model](README.md)
-1. [ ] [AWS Well-architected Framework](README.md)
-1. [ ] [High-availability and Fault Tolerance](README.md)
-1. [ ] [Compliance](README.md)
-1. [ ] [Scenario Based Review](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](security-and-architecture/core-concepts/README.md)
+1. [ ] [Security and Architecture Overview](security-and-architecture/core-concepts/README.md)
+1. [ ] [Shared Responsibility Model](security-and-architecture/core-concepts/README.md)
+1. [ ] [AWS Well-architected Framework](security-and-architecture/core-concepts/README.md)
+1. [ ] [High-availability and Fault Tolerance](security-and-architecture/core-concepts/README.md)
+1. [ ] [Compliance](security-and-architecture/core-concepts/README.md)
+1. [ ] [Scenario Based Review](security-and-architecture/core-concepts/README.md)
+1. [ ] [Summary](security-and-architecture/core-concepts/README.md)
 
 ### AWS Identities and User Management
 
-1. [ ] [Overview](README.md)
-1. [ ] [Introduction to AWS IAM](README.md)
-1. [ ] [Creating and Managing IAM Users](README.md)
-1. [ ] [Enabling Multi-factor Authentication](README.md)
-1. [ ] [Amazon Cognito](README.md)
-1. [ ] [Scenario Based Review](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Introduction to AWS IAM](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Creating and Managing IAM Users](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Enabling Multi-factor Authentication](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Amazon Cognito](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Scenario Based Review](security-and-architecture/identities-and-user-management/README.md)
+1. [ ] [Summary](security-and-architecture/identities-and-user-management/README.md)
 
 ### Data Architecture on AWS
 
-1. [ ] [Overview](README.md)
-1. [ ] [Integrating On-premise Data](README.md)
-1. [ ] [Processing Data](README.md)
-1. [ ] [Analyzing Data](README.md)
-1. [ ] [Integrating AI and Machine Learning](README.md)
-1. [ ] [Scenario Based Review](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](security-and-architecture/data-architecture/README.md)
+1. [ ] [Integrating On-premise Data](security-and-architecture/data-architecture/README.md)
+1. [ ] [Processing Data](security-and-architecture/data-architecture/README.md)
+1. [ ] [Analyzing Data](security-and-architecture/data-architecture/README.md)
+1. [ ] [Integrating AI and Machine Learning](security-and-architecture/data-architecture/README.md)
+1. [ ] [Scenario Based Review](security-and-architecture/data-architecture/README.md)
+1. [ ] [Summary](security-and-architecture/data-architecture/README.md)
 
 ### Disaster Recovery on AWS
 
-1. [ ] [Overview](README.md)
-1. [ ] [Disaster Recovery Architectures](README.md)
-1. [ ] [Selecting a Disaster Recovery Architecture](README.md)
-1. [ ] [Scenario Based Review](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](security-and-architecture/disaster-recovery/README.md)
+1. [ ] [Disaster Recovery Architectures](security-and-architecture/disaster-recovery/README.md)
+1. [ ] [Selecting a Disaster Recovery Architecture](security-and-architecture/disaster-recovery/README.md)
+1. [ ] [Scenario Based Review](security-and-architecture/disaster-recovery/README.md)
+1. [ ] [Summary](security-and-architecture/disaster-recovery/README.md)
 
 ### Architecting Applications on Amazon EC2
 
-1. [ ] [Overview](README.md)
-1. [ ] [Scaling EC2 Infrastructure](README.md)
-1. [ ] [Controlling Access to EC2 Instances](README.md)
-1. [ ] [Protecting Infrastructure from Attacks](README.md)
-1. [ ] [Deploying Pre-defined Solutions](README.md)
-1. [ ] [Developer Tools](README.md)
-1. [ ] [Scenario Based Review](README.md)
-1. [ ] [Summary](README.md)
+1. [ ] [Overview](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Scaling EC2 Infrastructure](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Controlling Access to EC2 Instances](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Protecting Infrastructure from Attacks](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Deploying Pre-defined Solutions](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Developer Tools](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Scenario Based Review](security-and-architecture/architecting-applications-on-ec2/README.md)
+1. [ ] [Summary](security-and-architecture/architecting-applications-on-ec2/README.md)
 
 ### The Certification Exam
 
-1. [ ] [The Exam](README.md)
-1. [ ] [Registering for the Exam](README.md)
-1. [ ] [Studying for and Taking the Exam](README.md)
+1. [ ] [The Exam](security-and-architecture/certification-exam/README.md)
+1. [ ] [Registering for the Exam](security-and-architecture/certification-exam/README.md)
+1. [ ] [Studying for and Taking the Exam](security-and-architecture/certification-exam/README.md)
 
 ## Exam Questions and Answers
 
