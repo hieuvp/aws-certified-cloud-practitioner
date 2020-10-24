@@ -13,6 +13,7 @@
   - [Reliability](#reliability)
   - [Performance Efficiency](#performance-efficiency)
   - [Cost Optimization](#cost-optimization)
+- [High-availability and Fault Tolerance](#high-availability-and-fault-tolerance)
 - [Common Compliance Standards](#common-compliance-standards)
   - [PCI-DSS](#pci-dss)
   - [HIPAA](#hipaa)
@@ -65,6 +66,10 @@ for how to best create systems that create business value on AWS.
 ### Cost Optimization
 
 > Achieving minimal costs for the desired value.
+
+## High-availability and Fault Tolerance
+
+> Everything fails all the time.
 
 ## Common Compliance Standards
 
