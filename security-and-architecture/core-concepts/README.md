@@ -7,6 +7,12 @@
 
 - [Least Privilege Access](#least-privilege-access)
 - [Shared Responsibility Model](#shared-responsibility-model)
+- [AWS Well-architected Framework](#aws-well-architected-framework)
+  - [Operational Excellence](#operational-excellence)
+  - [Security](#security)
+  - [Reliability](#reliability)
+  - [Performance Efficiency](#performance-efficiency)
+  - [Cost Optimization](#cost-optimization)
 - [Common Compliance Standards](#common-compliance-standards)
   - [PCI-DSS](#pci-dss)
   - [HIPAA](#hipaa)
@@ -34,6 +40,31 @@
 | Hardware for global infrastructure          | Operating system, network, and firewall configuration      |
 | Configuration management for infrastructure | All code deployed onto cloud infrastructure                |
 | Patching cloud infrastructure and services  | Patching guest operating system and custom applications    |
+
+## [AWS Well-architected Framework](https://aws.amazon.com/architecture/well-architected)
+
+The Well-architected Framework is a collection of best practices across give key pillars
+for how to best create systems that create business value on AWS.
+
+### Operational Excellence
+
+> Running and monitoring systems for business value.
+
+### Security
+
+> Protecting information and business assets.
+
+### Reliability
+
+> Enabling infrastructure to recover from disruptions.
+
+### Performance Efficiency
+
+> Using resources efficiently to achieve business value.
+
+### Cost Optimization
+
+> Achieving minimal costs for the desired value.
 
 ## Common Compliance Standards
 
