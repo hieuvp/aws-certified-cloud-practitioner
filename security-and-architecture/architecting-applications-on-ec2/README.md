@@ -1,4 +1,4 @@
-# Introduction to Security and Architecture on AWS
+# Architecting Applications on Amazon EC2
 
 ## Table of Contents
 
