@@ -10,11 +10,6 @@
 - [AWS Well-architected Framework](#aws-well-architected-framework)
 - [High-availability and Fault Tolerance](#high-availability-and-fault-tolerance)
 - [Common Compliance Standards](#common-compliance-standards)
-  - [PCI-DSS](#pci-dss)
-  - [HIPAA](#hipaa)
-  - [SOC 1, SOC 2, SOC 3](#soc-1-soc-2-soc-3)
-  - [FedRAMP](#fedramp)
-  - [ISO 27018](#iso-27018)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -54,26 +49,16 @@ for how to best create systems that create business value on AWS.
 
 > Everything fails all the time.
 
+Werner Vogels - CTO, Amazon
+
 ## Common Compliance Standards
 
-### PCI-DSS
-
-Compliance standard for processing credit cards.
-
-### HIPAA
-
-Compliance standard for healthcare data.
-
-### SOC 1, SOC 2, SOC 3
-
-Third-party reviews of operational processes.
-
-### FedRAMP
-
-Standards for US government data handling.
-
-### ISO 27018
-
-Standard for handling **Personally Identifiable Information** (PII).
+| **Compliance**      | **Description**                                                      |
+| ------------------- | -------------------------------------------------------------------- |
+| PCI-DSS             | Compliance standard for processing credit cards.                     |
+| HIPAA               | Compliance standard for healthcare data.                             |
+| SOC 1, SOC 2, SOC 3 | Third-party reviews of operational processes.                        |
+| FedRAMP             | Standards for US government data handling.                           |
+| ISO 27018           | Standard for handling **Personally Identifiable Information** (PII). |
 
 ## References
