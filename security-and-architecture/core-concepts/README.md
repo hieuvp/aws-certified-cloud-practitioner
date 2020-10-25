@@ -8,11 +8,6 @@
 - [Least Privilege Access](#least-privilege-access)
 - [Shared Responsibility Model](#shared-responsibility-model)
 - [AWS Well-architected Framework](#aws-well-architected-framework)
-  - [Operational Excellence](#operational-excellence)
-  - [Security](#security)
-  - [Reliability](#reliability)
-  - [Performance Efficiency](#performance-efficiency)
-  - [Cost Optimization](#cost-optimization)
 - [High-availability and Fault Tolerance](#high-availability-and-fault-tolerance)
 - [Common Compliance Standards](#common-compliance-standards)
   - [PCI-DSS](#pci-dss)
@@ -44,28 +39,16 @@
 
 ## [AWS Well-architected Framework](https://aws.amazon.com/architecture/well-architected)
 
-The Well-architected Framework is a collection of best practices across give key pillars
+The Well-architected Framework is a collection of best practices across five key pillars
 for how to best create systems that create business value on AWS.
 
-### Operational Excellence
-
-> Running and monitoring systems for business value.
-
-### Security
-
-> Protecting information and business assets.
-
-### Reliability
-
-> Enabling infrastructure to recover from disruptions.
-
-### Performance Efficiency
-
-> Using resources efficiently to achieve business value.
-
-### Cost Optimization
-
-> Achieving minimal costs for the desired value.
+| Pillar                 | Description                                            |
+| ---------------------- | ------------------------------------------------------ |
+| Operational Excellence | Running and monitoring systems for business value.     |
+| Security               | Protecting information and business assets.            |
+| Reliability            | Enabling infrastructure to recover from disruptions.   |
+| Performance Efficiency | Using resources efficiently to achieve business value. |
+| Cost Optimization      | Achieving minimal costs for the desired value.         |
 
 ## High-availability and Fault Tolerance
 
