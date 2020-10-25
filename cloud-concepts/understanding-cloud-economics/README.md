@@ -16,8 +16,6 @@ Utilizes data from **AWS Cost Explorer** to plan and track your usage across AWS
 <br />It can track cost per service, service usage,
 reserved instance utilization and coverage, and Savings Plans utilization and coverage.
 
-<div align="center">
-  <img src="assets/aws-budgets.png" width="900">
-</div>
+![AWS Budgets](assets/aws-budgets.png)
 
 ## References
