@@ -9,8 +9,6 @@
 - [Shared Responsibility Model](#shared-responsibility-model)
 - [AWS Well-architected Framework](#aws-well-architected-framework)
 - [Reliability](#reliability)
-  - [Fault Tolerance](#fault-tolerance)
-  - [High Availability](#high-availability)
 - [Common Compliance Standards](#common-compliance-standards)
 - [References](#references)
 
@@ -53,13 +51,10 @@ for how to best create systems that create business value on AWS.
 
 Werner Vogels - CTO, Amazon
 
-### Fault Tolerance
-
-> Being able to support the failure of components within your architecture.
-
-### High Availability
-
-> Keeping your entire solution running the expected manner despite issues that may occur.
+| **Strategy**      | **Description**                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| Fault Tolerance   | Being able to support the failure of components within your architecture.               |
+| High Availability | Keeping your entire solution running the expected manner despite issues that may occur. |
 
 ## Common Compliance Standards
 
