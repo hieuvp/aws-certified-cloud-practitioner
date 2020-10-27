@@ -20,7 +20,7 @@
 > you should grant them the minimum permissions needed
 > to complete their tasks and no more.
 
-## Shared Responsibility Model
+## [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model)
 
 > **Security** and **Compliance** is a shared responsibility between AWS and the customer.
 
