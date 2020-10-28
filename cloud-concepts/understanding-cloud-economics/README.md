@@ -24,8 +24,8 @@ reserved instance utilization and coverage, and Savings Plans utilization and co
 ![AWS Budgets](assets/aws-budgets.png)
 
 > AWS Budgets provides you with the ability to quickly set custom budgets
-> that will alert you if you exceed (or are forecasted to exceed) your budget,
-> making it easy to monitor your costs at scale.
+> <br />that will alert you if you exceed (or are forecasted to exceed) your budget,
+> <br />making it easy to monitor your costs at scale.
 
 <br />
 
