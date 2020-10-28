@@ -58,12 +58,12 @@ Werner Vogels - CTO, Amazon
 
 ## Common Compliance Standards
 
-| **Compliance**                                                      | **Description**                                                      |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| PCI-DSS (Payment Card Industry Data Security Standard)              | Compliance standard for processing credit cards.                     |
-| HIPAA (Health Insurance Portability and Accountability Act of 1996) | Compliance standard for healthcare data.                             |
-| SOC 1, SOC 2, SOC 3                                                 | Third-party reviews of operational processes.                        |
-| FedRAMP                                                             | Standards for US government data handling.                           |
-| ISO 27018                                                           | Standard for handling **Personally Identifiable Information** (PII). |
+| **Compliance**                                                      | **Description**                                                        |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| PCI-DSS (Payment Card Industry Data Security Standard)              | Compliance standard for processing credit cards.                       |
+| HIPAA (Health Insurance Portability and Accountability Act of 1996) | Compliance standard for healthcare data.                               |
+| (System and Organization Controls) SOC 1, SOC 2, SOC 2+, SOC 3      | Third-party reviews of operational processes.                          |
+| FedRAMP (Federal Risk and Authorization Management Program)         | Standards for US government data handling.                             |
+| (International Organization for Standardization) ISO 27018          | Standard for protecting **Personally Identifiable Information** (PII). |
 
 ## References
