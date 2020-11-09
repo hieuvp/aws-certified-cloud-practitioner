@@ -19,19 +19,35 @@
 
 ## The Network is Reliable
 
+> Calls over a network will fail.
+
 ## Latency is Zero
+
+> Calls over a network are not instant.
 
 ## Bandwidth is Infinite
 
+> Bandwidth is limited.
+
 ## The Network is Secure
+
+> The network is insecure.
 
 ## Topology Doesn't Change
 
+> Network topologies change constantly.
+
 ## There is One Administrator
+
+> There is no one person who knows everything.
 
 ## Transport Cost is Zero
 
+> Transport cost is not zero.
+
 ## The Network is Homogeneous
+
+> The network is not homogenous.
 
 ## References
 
