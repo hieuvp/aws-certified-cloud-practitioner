@@ -1,5 +1,9 @@
 # CAP Theorem
 
+> A distributed system can deliver only two of three desired characteristics:
+> **consistency**, **availability**, and **partition tolerance**
+> (the `C`, `A` and `P` in `CAP`).
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
