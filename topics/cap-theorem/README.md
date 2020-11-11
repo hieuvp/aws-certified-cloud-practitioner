@@ -86,7 +86,46 @@ deliver consistency and availability and can be deployed to multiple nodes using
 
 ### MongoDB (`CP`)
 
+MongoDB is a popular NoSQL database management system that stores data as BSON (binary JSON) documents.
+It's frequently used for big data and real-time applications running at multiple different locations.
+Relative to the CAP theorem, MongoDB is a CP data store,
+it resolves network partitions by maintaining consistency,
+while compromising on availability.
+
+MongoDB is a single-master system,
+each replica set can have only one primary node that receives all the write operations.
+All other nodes in the same replica set are secondary nodes
+that replicate the primary node's operation log and apply it to their own data set.
+By default, clients also read from the primary node,
+but they can also specify a read preference that allows them to read from secondary nodes.
+
+When the primary node becomes unavailable,
+the secondary node with the most recent operation log will be elected as the new primary node.
+Once all the other secondary nodes catch up with the new master,
+the cluster becomes available again.
+As clients can't make any write requests during this interval,
+the data remains consistent across the entire network.
+
 ### Cassandra (`AP`)
+
+Apache Cassandra is an open source NoSQL database maintained by the Apache Software Foundation.
+It's a wide-column database that lets you store data on a distributed network.
+However, unlike MongoDB, Cassandra has a masterless architecture,
+and as a result, it has multiple points of failure, rather than a single one.
+
+Relative to the CAP theorem, Cassandra is an AP database,
+it delivers availability and partition tolerance but can't deliver consistency all the time.
+Because Cassandra doesn't have a master node,
+all the nodes must be available continuously.
+However, Cassandra provides eventual consistency
+by allowing clients to write to any nodes at any time
+and reconciling inconsistencies as quickly as possible.
+
+As data only becomes inconsistent in the case of
+a network partition and inconsistencies are quickly resolved,
+Cassandra offers **repair** functionality to help nodes catch up with their peers.
+However, constant availability results in a highly performant system
+that might be worth the trade-off in many cases.
 
 ## References
 
