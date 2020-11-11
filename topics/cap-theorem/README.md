@@ -29,7 +29,7 @@ Consistency means that all clients see the same data at the same time,
 no matter which node they connect to.
 For this to happen, whenever data is written to one node,
 it must be instantly forwarded or replicated to all the other nodes in the system
-before the write is deemed `successful`.
+before the write is deemed **successful**.
 
 ## Availability (`A`)
 
