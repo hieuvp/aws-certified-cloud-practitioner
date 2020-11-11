@@ -48,11 +48,39 @@ despite any number of communication breakdowns between nodes in the system.
 
 ## NoSQL Database Types
 
+> NoSQL (non-relational) databases are ideal for distributed network applications.
+> Unlike their vertically scalable SQL (relational) counterparts,
+> NoSQL databases are horizontally scalable and distributed by design,
+> they can rapidly scale across a growing network consisting of multiple interconnected nodes.
+
 ### `CP` Database
+
+A CP database delivers consistency and partition tolerance at the expense of availability.
+When a partition occurs between any two nodes,
+the system has to shut down the non-consistent node (i.e., make it unavailable)
+until the partition is resolved.
 
 ### `AP` Database
 
+An AP database delivers availability and partition tolerance at the expense of consistency.
+When a partition occurs, all nodes remain available
+but those at the wrong end of a partition might return an older version of data than others.
+(When the partition is resolved,
+the AP databases typically resync the nodes to repair all inconsistencies in the system).
+
 ### `CA` Database
+
+A CA database delivers consistency and availability across all nodes.
+It can't do this if there is a partition between any two nodes in the system,
+however, and therefore can't deliver fault tolerance.
+
+We listed this type last for a reason, in a distributed system, partitions can't be avoided.
+So, while we can discuss a CA distributed database in theory, for all practical purposes,
+a CA distributed database can't exist.
+However, this doesn't mean you can't have a CA database
+for your distributed application if you need one.
+Many relational databases, such as PostgreSQL,
+deliver consistency and availability and can be deployed to multiple nodes using replication.
 
 ## Examples
 
