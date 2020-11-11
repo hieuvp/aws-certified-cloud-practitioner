@@ -12,6 +12,10 @@
 - [Consistency (`C`)](#consistency-c)
 - [Availability (`A`)](#availability-a)
 - [Partition Tolerance (`P`)](#partition-tolerance-p)
+- [NoSQL Database Types](#nosql-database-types)
+  - [`CP` Database](#cp-database)
+  - [`AP` Database](#ap-database)
+  - [`CA` Database](#ca-database)
 - [Examples](#examples)
   - [MongoDB (`CP`)](#mongodb-cp)
   - [Cassandra (`AP`)](#cassandra-ap)
@@ -41,6 +45,14 @@ A partition is a communications break within a distributed system,
 a lost or temporarily delayed connection between two nodes.
 Partition tolerance means that the cluster must continue to work
 despite any number of communication breakdowns between nodes in the system.
+
+## NoSQL Database Types
+
+### `CP` Database
+
+### `AP` Database
+
+### `CA` Database
 
 ## Examples
 
