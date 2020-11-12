@@ -114,7 +114,8 @@ However, unlike MongoDB, Cassandra has a masterless architecture,
 and as a result, it has multiple points of failure, rather than a single one.
 
 Relative to the CAP theorem, Cassandra is an AP database,
-it delivers availability and partition tolerance but can't deliver consistency all the time.
+it delivers **availability** and **partition tolerance**
+but can't deliver consistency all the time.
 Because Cassandra doesn't have a master node,
 all the nodes must be available continuously.
 However, Cassandra provides eventual consistency
