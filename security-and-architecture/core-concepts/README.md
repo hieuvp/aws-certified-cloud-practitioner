@@ -16,8 +16,10 @@
 ## Least Privilege Access
 
 > When granting permission for a user to access AWS resources,
-> you should grant them the minimum permissions needed
+> <br />you should grant them the minimum permissions needed
 > to complete their tasks and no more.
+
+<br />
 
 ## [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model)
 
@@ -30,6 +32,8 @@
 | Hardware for global infrastructure          | Operating system, network, and firewall configuration      |
 | Configuration management for infrastructure | All code deployed onto cloud infrastructure                |
 | Patching cloud infrastructure and services  | Patching guest operating system and custom applications    |
+
+<br />
 
 ## [AWS Well-architected Framework](https://aws.amazon.com/architecture/well-architected)
 
@@ -44,6 +48,8 @@ for how to best create systems that create business value on AWS.
 | Performance Efficiency | Using resources efficiently to achieve business value. |
 | Cost Optimization      | Achieving minimal costs for the desired value.         |
 
+<br />
+
 ## Reliability
 
 > Everything fails all the time.
@@ -54,6 +60,8 @@ Werner Vogels - CTO, Amazon
 | ----------------- | --------------------------------------------------------------------------------------- |
 | Fault Tolerance   | Being able to support the failure of components within your architecture.               |
 | High Availability | Keeping your entire solution running the expected manner despite issues that may occur. |
+
+<br />
 
 ## Common Compliance Standards
 
