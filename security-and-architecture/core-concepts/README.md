@@ -10,6 +10,7 @@
 - [AWS Well-architected Framework](#aws-well-architected-framework)
 - [Reliability](#reliability)
 - [Common Compliance Standards](#common-compliance-standards)
+- [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -64,3 +65,7 @@ Werner Vogels - CTO, Amazon
 | (System and Organization Controls) SOC 1, SOC 2, SOC 2+, SOC 3      | Third-party reviews of operational processes.                          |
 | FedRAMP (Federal Risk and Authorization Management Program)         | Standards for US government data handling.                             |
 | (International Organization for Standardization) ISO 27018          | Standard for protecting **Personally Identifiable Information** (PII). |
+
+## References
+
+- [What Is Fault Tolerance and Why It Differs From High Availability](https://www.vxchnge.com/blog/fault-tolerance-vs-high-availability)
