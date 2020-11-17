@@ -45,7 +45,7 @@ for how to best create systems that create business value on AWS.
 | Performance Efficiency | Using resources efficiently to achieve business value. |
 | Cost Optimization      | Achieving minimal costs for the desired value.         |
 
-## Reliability
+## [Reliability](../../topics/reliability/README.md)
 
 > Everything fails all the time.
 
