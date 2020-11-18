@@ -214,8 +214,8 @@
 
 ## Topics
 
-1. [ ] [CAP Theorem](topics/cap-theorem/README.md)
-1. [ ] [The 8 Fallacies of Distributed Systems](topics/the-8-fallacies-of-distributed-systems/README.md)
+1. [CAP Theorem](topics/cap-theorem/README.md)
+1. [The 8 Fallacies of Distributed Systems](topics/the-8-fallacies-of-distributed-systems/README.md)
 
 ## Exam Questions and Answers
 
