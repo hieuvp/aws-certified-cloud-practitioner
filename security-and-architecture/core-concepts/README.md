@@ -6,7 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Least Privilege Access](#least-privilege-access)
-- [AWS Well-architected Framework](#aws-well-architected-framework)
+- [AWS Well-Architected Framework](#aws-well-architected-framework)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -16,9 +16,9 @@
 > <br />you should grant them the minimum permissions needed
 > to complete their tasks and no more.
 
-## [AWS Well-architected Framework](https://aws.amazon.com/architecture/well-architected)
+## [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected)
 
-The **Well-architected Framework** is a collection of best practices
+The **Well-Architected Framework** is a collection of best practices
 across five key pillars for how to best create systems that create business value on AWS.
 
 | **Pillar**             | **Description**                                        |
