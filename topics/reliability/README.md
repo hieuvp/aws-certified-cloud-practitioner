@@ -94,3 +94,4 @@ when discussing requirements of a system.
 ## References
 
 - [What's the Difference Between High Availability and Fault Tolerance?](https://medium.com/@KHuffstetler/whats-the-difference-between-high-availability-and-fault-tolerance-9bea141d8c1f)
+- [What is Fault Tolerance and Why It Differs From High Availability](https://www.vxchnge.com/blog/fault-tolerance-vs-high-availability)
