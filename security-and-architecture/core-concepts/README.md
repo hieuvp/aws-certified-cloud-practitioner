@@ -6,10 +6,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Least Privilege Access](#least-privilege-access)
+<<<<<<< HEAD
 - [Shared Responsibility Model](#shared-responsibility-model)
 - [AWS Well-architected Framework](#aws-well-architected-framework)
 - [Reliability](#reliability)
 - [Common Compliance Standards](#common-compliance-standards)
+=======
+- [AWS Well-Architected Framework](#aws-well-architected-framework)
+>>>>>>> main
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -19,6 +23,7 @@
 > <br />you should grant them the minimum permissions needed
 > to complete their tasks and no more.
 
+<<<<<<< HEAD
 ## [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model)
 
 > **Security** and **Compliance** is a shared responsibility between AWS and the customer.
@@ -35,6 +40,12 @@
 
 The **Well-architected Framework** is a collection of best practices
 across five key pillars for how to best create systems that create business value on AWS.
+=======
+## [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected)
+
+The **Well-Architected Framework** is a collection of best practices across five key pillars
+<br />for how to best create systems that create business value on AWS.
+>>>>>>> main
 
 | **Pillar**             | **Description**                                        |
 | ---------------------- | ------------------------------------------------------ |
@@ -43,6 +54,7 @@ across five key pillars for how to best create systems that create business valu
 | Reliability            | Enabling infrastructure to recover from disruptions.   |
 | Performance Efficiency | Using resources efficiently to achieve business value. |
 | Cost Optimization      | Achieving minimal costs for the desired value.         |
+<<<<<<< HEAD
 
 ## [Reliability](../../topics/reliability/README.md)
 
@@ -64,3 +76,5 @@ Werner Vogels - CTO, Amazon
 | (System and Organization Controls) SOC 1, SOC 2, SOC 2+, SOC 3      | Third-party reviews of operational processes.                          |
 | FedRAMP (Federal Risk and Authorization Management Program)         | Standards for US government data handling.                             |
 | (International Organization for Standardization) ISO 27018          | Standard for protecting **Personally Identifiable Information** (PII). |
+=======
+>>>>>>> main
