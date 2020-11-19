@@ -27,6 +27,7 @@
   - [Disaster Recovery on AWS](#disaster-recovery-on-aws)
   - [Architecting Applications on Amazon EC2](#architecting-applications-on-amazon-ec2)
   - [The Certification Exam](#the-certification-exam)
+- [Topics](#topics)
 - [Exam Questions and Answers](#exam-questions-and-answers)
 - [References](#references)
 
@@ -210,6 +211,11 @@
 1. [ ] [The Exam](security-and-architecture/certification-exam/README.md)
 1. [ ] [Registering for the Exam](security-and-architecture/certification-exam/README.md)
 1. [ ] [Studying for and Taking the Exam](security-and-architecture/certification-exam/README.md)
+
+## Topics
+
+1. [CAP Theorem](topics/cap-theorem/README.md)
+1. [The 8 Fallacies of Distributed Systems](topics/the-8-fallacies-of-distributed-systems/README.md)
 
 ## Exam Questions and Answers
 
